@@ -62,7 +62,7 @@ ionicBootstrap(MyApp)
 
 Every app has a *root component* that essentially controls the rest of the application. This is very similar to `ng-app` from Ionic and Angular 1. This is also where we bootstrap our app using `ionicBootstrap`.
 
-In this component, we set the template to be the file at `build/app.html`, which is a compiled version of `app/app.html`, let's take a look!
+In this component, we set the template to be the file at `www/build/app.html`, which is a compiled version of `app/app.html`, let's take a look!
 
 <h3 class="file-title">./app/app.html</h3>
 
